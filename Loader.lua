@@ -41,7 +41,7 @@ if showGUI then
     })
 
     Tabs.KeyTab:AddLabel({
-        Text = "Get key from discord.gg/hNPDFtK4PBn",
+        Text = "Get key from discord.gg/szXxGCEJaD",
         DoesWrap = true,
         Size = 17,
     })
@@ -49,7 +49,7 @@ if showGUI then
     Tabs.KeyTab:AddButton({
         Text = "Copy Discord Link",
         Func = function()
-            setclipboard("https://discord.gg/hNPDFtK4PB")
+            setclipboard("https://discord.gg/szXxGCEJaD")
             Obsidian:Notify("Copied to clipboard!", 10)
         end
     })
