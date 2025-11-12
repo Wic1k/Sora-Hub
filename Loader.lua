@@ -68,8 +68,8 @@ end
 repeat task.wait() until keysystem
 getgenv().GamesTables = (function()
     local GameList = {
-        [16991287194] = "https://raw.githubusercontent.com/Wic1k/Sora-Hub/refs/heads/main/S.E.W.H.lua",
-        [107933350996709] = "https://raw.githubusercontent.com/Wic1k/Sora-Hub/refs/heads/main/S.E.W.H.lua",
+        [16991287194] = "https://raw.githubusercontent.com/Wic1k/Sora-Hub/refs/heads/main/S.E.W.H.lua.txt",
+        [107933350996709] = "https://raw.githubusercontent.com/Wic1k/Sora-Hub/refs/heads/main/S.E.W.H.lua.txt",
         [135880624242201] = "https://cdn.authguard.org/virtual-file/f135058a15b641f685cbe08af0d5484a",
     }
     local function ReverseTable(tbl)
