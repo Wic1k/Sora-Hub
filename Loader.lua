@@ -72,7 +72,7 @@ getgenv().GamesTables = (function()
 		[126650957495260] = "https://raw.githubusercontent.com/Wic1k/Sora-Hub/refs/heads/main/S.E.W.H.lua.txt",
         [107933350996709] = "https://raw.githubusercontent.com/Wic1k/Sora-Hub/refs/heads/main/S.E.W.H.lua.txt",
         [135880624242201] = "https://raw.githubusercontent.com/Wic1k/Sora-Hub/refs/heads/main/CutTrees.luau",
-		[18794863104] = "https://pandadevelopment.net/virtual/file/1789bc1727ef5602",	
+		[18794863104] = "https://raw.githubusercontent.com/Wic1k/Sora-Hub/refs/heads/main/Demonology.lua",	
     }
     local function ReverseTable(tbl)
         local proxy = {}
